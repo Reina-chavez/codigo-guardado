@@ -1,0 +1,36 @@
+ #purple{
+     color: rgb(199, 33, 255);
+ }
+
+ #blue{
+     color: blue;
+ }
+
+ #yellow{
+     color: rgb(255, 136, 0);
+ }
+
+ #space{
+     margin-left: 10px;
+ }
+
+ h1{
+     display: flex;
+    
+ }
+
+ li{
+    background-color: blue;
+    border: white solid 3px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-bottom: 5px;
+    width: 150px;
+
+ }
+
+ li:hover{
+     border: red solid 3px;
+ }

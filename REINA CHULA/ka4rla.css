@@ -1,0 +1,21 @@
+#parrafo{
+    color:crimson;
+    font-size: 35px;
+}
+
+#p-1-title{
+    font-size: 1em;
+}
+
+.parrafo{
+    color:aquamarine;
+    font-size: 2mm;
+    
+}
+.parrafo:focus{
+    color:blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.parrafo::after{
+    content: 'fish';
+}

@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+
+#nav-bar{
+    background-color: yellow;
+    display: f;
+    height: 40px;
+}
+
+#snap{
+    margin: 0;
+    font-family: fantasy;
+}
